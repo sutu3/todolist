@@ -1,0 +1,12 @@
+.project{
+    width: min(1550px,100%);
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: aquamarine;
+    .element{
+        button{
+            padding: 10px;
+            margin: 5px;
+        }
+    }
+}
